@@ -4041,6 +4041,11 @@ cyclist@^1.0.1:
   resolved "https://registry.yarnpkg.com/cyclist/-/cyclist-1.0.1.tgz#596e9698fd0c80e12038c2b82d6eb1b35b6224d9"
   integrity sha1-WW6WmP0MgOEgOMK4LW6xs1tiJNk=
 
+cytoscape-cxtmenu@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/cytoscape-cxtmenu/-/cytoscape-cxtmenu-3.1.2.tgz#a183629fc53b58cdf82db601c2eed9eca41eefae"
+  integrity sha512-ikPWyNRZ6IfIykXU9J6tXkwu2Gk3nYK5yNmNJI/wtLFCuELdcCqpEXobgGLDT7yEGO+jI1upxmb4Lex/DPZlgA==
+
 cytoscape@^3.2.19:
   version "3.15.2"
   resolved "https://registry.yarnpkg.com/cytoscape/-/cytoscape-3.15.2.tgz#a26bb3053471babfe0178e740672cd99a46b28de"
